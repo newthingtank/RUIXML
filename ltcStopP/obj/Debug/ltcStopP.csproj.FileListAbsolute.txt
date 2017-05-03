@@ -1,0 +1,15 @@
+F:\Web Programming with XML\ltcStopP\ltcStopP\bin\Debug\ltcStopP.exe.config
+F:\Web Programming with XML\ltcStopP\ltcStopP\bin\Debug\ltcStopP.exe
+F:\Web Programming with XML\ltcStopP\ltcStopP\bin\Debug\ltcStopP.pdb
+F:\Web Programming with XML\ltcStopP\ltcStopP\obj\Debug\ltcStopP.exe
+F:\Web Programming with XML\ltcStopP\ltcStopP\obj\Debug\ltcStopP.pdb
+F:\Web Programming with XML\ltcStopP\ltcStopP\obj\Debug\ltcStopP.csprojResolveAssemblyReference.cache
+C:\Users\Rui\Desktop\ltcStopP\ltcStopP\bin\Debug\ltcStopP.exe.config
+C:\Users\Rui\Desktop\ltcStopP\ltcStopP\obj\Debug\ltcStopP.exe
+C:\Users\Rui\Desktop\ltcStopP\ltcStopP\obj\Debug\ltcStopP.pdb
+C:\Users\Rui\Desktop\ltcStopP\ltcStopP\bin\Debug\ltcStopP.exe
+C:\Users\Rui\Desktop\ltcStopP\ltcStopP\bin\Debug\ltcStopP.pdb
+C:\Users\Rui\Desktop\ltcStopP\ltcStopP\obj\Debug\ltcStopP.csprojResolveAssemblyReference.cache
+D:\ltcStopP\ltcStopP\bin\Debug\ltcStopP.exe.config
+D:\ltcStopP\ltcStopP\obj\Debug\ltcStopP.exe
+D:\ltcStopP\ltcStopP\obj\Debug\ltcStopP.pdb
